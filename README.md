@@ -10,6 +10,11 @@ Total watch time:
 Total watch time per month: 
 ![image](https://user-images.githubusercontent.com/103018029/211232589-d0b16a12-10f8-4ab9-86e4-fdcb09fcb472.png)
 
+
+Top 10 shows watched:
+![Show_duration](https://user-images.githubusercontent.com/103018029/214418170-d43b32b3-4a4a-4c7e-9dcf-14770fdaca26.png)
+
+
 More features to come!!
 
 # Step-Up
